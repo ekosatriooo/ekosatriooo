@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **ekosatriooo/ekosatriooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
