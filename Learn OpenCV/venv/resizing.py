@@ -1,7 +1,7 @@
+# resizing
 import os
 
 import cv2
-
 
 
 img = cv2.imread(os.path.join('.', 'data', 'dogs.jpg'))
