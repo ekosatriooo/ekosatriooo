@@ -6,7 +6,7 @@ import numpy as np
 
 img = cv2.imread(os.path.join('.', 'data', 'basketball-player.jpg'))
 
-img_edge = cv2.Canny(img, 100, 200)
+img_edge = cv2.Canny(img, 170, 240)
 
 img_edge_d = cv2.dilate(img_edge, np.ones((5, 5), dtype=np.int8))
 
