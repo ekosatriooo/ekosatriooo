@@ -54,3 +54,5 @@ with mp.solutions.face_detection(model_selection=0, min_detection_confidence=0.5
 
         # save image
         cv2.imwrite(os.path.join(output_dir, 'output.png'), img)
+
+        hai
